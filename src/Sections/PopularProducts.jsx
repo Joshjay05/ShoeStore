@@ -1,11 +1,7 @@
 // import React from 'react'
 
 const PopularProducts = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+	return <div>Popular Products</div>;
+};
 
-export default PopularProducts
+export default PopularProducts;

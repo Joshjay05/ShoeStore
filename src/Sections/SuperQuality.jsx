@@ -1,11 +1,7 @@
 // import React from 'react'
 
 const SuperQuality = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+	return <div>Super Quality</div>;
+};
 
-export default SuperQuality
+export default SuperQuality;

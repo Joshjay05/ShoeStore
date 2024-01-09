@@ -13,12 +13,14 @@ import {
 	Services,
 	Subscribe,
 } from "./Sections";
+import Nav from "./Sections/Nav";
 const App = () => {
 	// const [count, setCount] = useState(0)
 
 	return (
 		<>
 			<main className="relative">
+				<Nav />
 				<section className="x1:padding-1 wide:padding-r padding-b">
 					<Hero />
 				</section>
