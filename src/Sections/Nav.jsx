@@ -1,5 +1,5 @@
 // import React from 'react'
-import { navLinks } from "../Constants/constant";
+import { navLinks } from "../Constants/Data";
 import logo from "../images/header-logo.svg";
 import { hamburger } from "../icons";
 // import { navLinks } from "../Constants/constant";

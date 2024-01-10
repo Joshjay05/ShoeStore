@@ -1,7 +1,7 @@
 // import React from 'react'
 
 import { useState } from "react";
-import { shoes, statistics } from "../Constants/constant";
+import { shoes, statistics } from "../Constants/Data";
 import { arrowRight } from "../icons";
 import { bigShoe1 } from "../images";
 import Button from "./Button";
