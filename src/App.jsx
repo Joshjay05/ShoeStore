@@ -3,6 +3,10 @@
 // import viteLogo from "/vite.svg";
 // import "./App.css";
 
+// import { Form } from "react-router-dom";
+// import Form from "./Form";
+// import Table from "./Table";
+
 import {
 	CustomerReviews,
 	Footer,
@@ -19,6 +23,8 @@ const App = () => {
 
 	return (
 		<>
+			{/* <Table /> */}
+			{/* <Form /> */}
 			<main className="relative">
 				<Nav />
 				<section className="xl:padding-l wide:padding-r padding-b">
